@@ -1,0 +1,20 @@
+# Mini Post App 📝
+
+Aplicação simples de criação e exclusão de posts feita com JavaScript puro.
+
+## Funcionalidades
+
+- Criar posts
+- Validação de campo vazio
+- Excluir posts
+- Manipulação do DOM
+
+## Tecnologias
+
+- HTML
+- CSS
+- JavaScript
+
+## Autor
+
+Antônio Agenor
